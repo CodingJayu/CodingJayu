@@ -36,8 +36,8 @@
 
 <div align="center">
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrasal2001&layout=compact&show_icon=true&theme=algolia" alt="mayurrasal2001-langs"/> -->
-<img src="https://github-readme-stats.vercel.app/api/?username=CodingJayu&layout=compact&show_icon=true&theme=algolia" alt="codingjayu"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingjayu&layout=compact&show_icon=true&theme=algolia" alt="codingjayu" /></p>
+<img height="200" src="https://github-readme-stats.vercel.app/api/?username=CodingJayu&layout=compact&show_icon=true&theme=algolia" alt="codingjayu"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingjayu&layout=compact&show_icon=true&theme=algolia" alt="codingjayu" /></p>
   
 </div>
 <div align="center">
