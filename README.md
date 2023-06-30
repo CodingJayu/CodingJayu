@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingjayu&show_icons=true&locale=en" alt="codingjayu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingjayu&" alt="codingjayu" /></p>
+
+(https://github.com/CodingJayu/CodingJayu/blob/output/github-contribution-grid-snake.gif)
