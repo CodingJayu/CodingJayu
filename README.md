@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jayeshpawar.2782@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1ZlcHGI6HcxgMCf2fE5MIa5TZyzruTY7X/view?usp=sharing](https://drive.google.com/file/d/1ZlcHGI6HcxgMCf2fE5MIa5TZyzruTY7X/view?usp=sharing)
+- 📄 Know about my experiences (Resume) [Open Resume](https://drive.google.com/file/d/1ZlcHGI6HcxgMCf2fE5MIa5TZyzruTY7X/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
